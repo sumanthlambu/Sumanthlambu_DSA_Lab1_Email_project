@@ -1,1 +1,1 @@
-# Sumanthlambu_Lab1_Email_project
+# Sumanthlambu_DSA_Lab1_Email_project
